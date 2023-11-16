@@ -148,5 +148,21 @@
     "Changelog": "",
     "DownloadLinkInstall": "https://github.com/KR-Plugins/ffxiv_bossmod/releases/download/0.0.0.114/BossMod.zip",
     "DownloadLinkUpdate": "https://github.com/KR-Plugins/ffxiv_bossmod/releases/download/0.0.0.114/BossMod.zip"
+  },
+  {
+    "Author": "Paissa Heavy Industries",
+    "Name": "Lemegeton",
+    "Description": "Your ultimate ingame companion; spells and enchantments to make your gameplay experience a little more magical.",
+    "InternalName": "Lemegeton",
+    "AssemblyVersion": "1.0.1.9",
+    "RepoUrl": "https://github.com/paissaheavyindustries/Lemegeton",
+    "IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/lemegeton.png",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "meow"
+    ],
+    "DalamudApiLevel": 8,
+    "DownloadLinkInstall": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.9/Lemegeton_1_0_1_9.zip",
+    "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.9/Lemegeton_1_0_1_9.zip"
   }
 ]
