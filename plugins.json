@@ -183,5 +183,19 @@
     "Changelog": "Click the new Changelog button to see whats new",
     "DownloadLinkInstall": "https://github.com/KR-Plugins/AutoHook/releases/download/2.5.0.0/AutoHook.zip",
     "DownloadLinkUpdate": "https://github.com/KR-Plugins/AutoHook/releases/download/2.5.0.0/AutoHook.zip"
+  },
+  {
+    "Author": "Chalkos",
+    "Name": "Marketbuddy",
+    "Punchline": "Less clicks, more gil!",
+    "Description": "Helper for your day-to-day market operations.",
+    "InternalName": "Marketbuddy",
+    "AssemblyVersion": "0.2.2.17",
+    "RepoUrl": "https://github.com/chalkos/Marketbuddy",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "DownloadLinkInstall": "https://github.com/KR-Plugins/Marketbuddy/releases/download/0.2.2.17/Marketbuddy.zip",
+    "DownloadLinkUpdate": "https://github.com/KR-Plugins/Marketbuddy/releases/download/0.2.2.17/Marketbuddy.zip",
+    "Changelog": "- Add IPC to allow other plugins to request operation halting (by Limiana)"
   }
 ]
