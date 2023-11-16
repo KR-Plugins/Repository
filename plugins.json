@@ -164,5 +164,24 @@
     "DalamudApiLevel": 8,
     "DownloadLinkInstall": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.9/Lemegeton_1_0_1_9.zip",
     "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.9/Lemegeton_1_0_1_9.zip"
+  },
+  {
+    "Author": "Det",
+    "Name": "Auto Hook",
+    "InternalName": "AutoHook",
+    "AssemblyVersion": "2.5.0.0",
+    "Description": "It hooks the fish for you, can you believe it?",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/InitialDet/AutoHook",
+    "Tags": [
+      "Gathering",
+      "Fishing"
+    ],
+    "DalamudApiLevel": 8,
+    "IconUrl": "https://raw.githubusercontent.com/InitialDet/AutoHook/main/AutoHook/images/icon.png",
+    "Punchline": "Makes fishing less (or more) boring",
+    "Changelog": "Click the new Changelog button to see whats new",
+    "DownloadLinkInstall": "https://github.com/KR-Plugins/AutoHook/releases/download/2.5.0.0/AutoHook.zip",
+    "DownloadLinkUpdate": "https://github.com/KR-Plugins/AutoHook/releases/download/2.5.0.0/AutoHook.zip"
   }
 ]
