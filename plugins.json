@@ -219,5 +219,20 @@
     "Changelog": "Use hooks instead of opcodes",
     "DownloadLinkInstall": "https://github.com/KR-Plugins/PennyPincher/releases/download/1.7.0.0/PennyPincher.zip",
     "DownloadLinkUpdate": "https://github.com/KR-Plugins/PennyPincher/releases/download/1.7.0.0/PennyPincher.zip"
+  },
+  {
+    "Author": "Team Sloth",
+    "Name": "XIVSlothCombo",
+    "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+    "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+    "Changelog": "",
+    "InternalName": "XIVSlothCombo",
+    "AssemblyVersion": "3.0.18.5",
+    "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "IconUrl": "https://raw.githubusercontent.com/Nik-Potokar/XIVSlothCombo/main/res/plugin/xivslothcombo.png",
+    "DownloadLinkInstall": "https://github.com/KR-Plugins/XIVSlothCombo/releases/download/3.0.18.5/XIVSlothCombo.zip",
+    "DownloadLinkUpdate": "https://github.com/KR-Plugins/XIVSlothCombo/releases/download/3.0.18.5/XIVSlothCombo.zip"
   }
 ]
