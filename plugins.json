@@ -234,5 +234,22 @@
     "IconUrl": "https://raw.githubusercontent.com/Nik-Potokar/XIVSlothCombo/main/res/plugin/xivslothcombo.png",
     "DownloadLinkInstall": "https://github.com/KR-Plugins/XIVSlothCombo/releases/download/3.0.18.5/XIVSlothCombo.zip",
     "DownloadLinkUpdate": "https://github.com/KR-Plugins/XIVSlothCombo/releases/download/3.0.18.5/XIVSlothCombo.zip"
+  },
+  {
+    "Author": "Aiczk(Original Creator), Aki(Updates)",
+    "Name": "AstroReborn",
+    "Punchline": "Make Astro Simple to play",
+    "Description": "/astro for all the options",
+    "Changelog": "",
+    "InternalName": "Astro",
+    "AssemblyVersion": "1.0.0.2",
+    "RepoUrl": "https://github.com/Nik-Potokar/Astro",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "TestingAssemblyVersion": "1.0.0.2",
+    "IsTestingExclusive": "True",
+    "DownloadLinkInstall": "https://github.com/KR-Plugins/Astro/releases/download/1.0.0.2/Astro.zip",
+    "DownloadLinkUpdate": "https://github.com/KR-Plugins/Astro/releases/download/1.0.0.2/Astro.zip",
+    "DownloadLinkTesting": "https://github.com/KR-Plugins/Astro/releases/download/1.0.0.2/Astro.zip"
   }
 ]
