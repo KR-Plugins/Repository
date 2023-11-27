@@ -2,7 +2,7 @@
   {
     "Author": "Taurenkey",
     "Name": "Artisan",
-    "Punchline": "A 'simple' crafting plugin.",
+    "Punchline": "'간단한' 제작 플러그인",
     "Description": "The all-in-one crafting plugin.",
     "Tags": [
       "crafting"
@@ -21,7 +21,7 @@
     "Author": "kawaii, NightmareXIV",
     "Name": "Orbwalker",
     "Punchline": "S P A C E G L I D I N G",
-    "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
+    "Description": "캐스팅 중 플레이어의 움직임을 막아, 전투 중 캐스팅 시간을 최대로 늘릴 수 있습니다.",
     "Tags": [],
     "InternalName": "Orbwalker",
     "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
@@ -36,8 +36,8 @@
   {
     "Author": "kawaii, NightmareXIV",
     "Name": "AutoRetainer",
-    "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
-    "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
+    "Punchline": "누워서 편하게 집사 수행을 보내세요.",
+    "Description": "누워서 편하게 집사 수행을 보내세요.",
     "Tags": [],
     "InternalName": "AutoRetainer",
     "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
@@ -52,7 +52,7 @@
   {
     "Author": "NightmareXIV",
     "Name": "Splatoon",
-    "Punchline": "Redefining FFXIV navigation with unlimited, precise waymarks.",
+    "Punchline": "무한하고 정밀한 표시로 파판의 내비게이션을 재정의합니다.",
     "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
     "Tags": [
       "Utility",
@@ -71,7 +71,7 @@
   {
     "Author": "Taurenkey, croizat",
     "Name": "Pandora's Box",
-    "Punchline": "Do you dare to open Pandora's Box?",
+    "Punchline": "판도라의 상자를 열어보시겠습니까?",
     "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
     "Tags": [
       "punish",
@@ -90,8 +90,8 @@
   {
     "Author": "Taurenkey",
     "Name": "Saucy",
-    "Punchline": "When working for MGP is too much effort.",
-    "Description": "Automates certain Gold Saucer mini-games.",
+    "Punchline": "MGP 벌기 힘들 때",
+    "Description": "특정 골드 소서 미니 게임을 자동화합니다.",
     "Tags": [
       "gold saucer",
       "mgp",
@@ -110,7 +110,7 @@
   {
     "Author": "Taurenkey, Gidedin",
     "Name": "LazyLoot",
-    "Punchline": "Dungeon Loot but Lazy.",
+    "Punchline": "게으른 던전 템 입찰",
     "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
     "Tags": [
       "plugin",
@@ -170,7 +170,7 @@
     "Name": "Auto Hook",
     "InternalName": "AutoHook",
     "AssemblyVersion": "2.5.0.0",
-    "Description": "It hooks the fish for you, can you believe it?",
+    "Description": "물고기를 낚는 게 믿어지시나요?",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/InitialDet/AutoHook",
     "Tags": [
@@ -179,7 +179,7 @@
     ],
     "DalamudApiLevel": 8,
     "IconUrl": "https://raw.githubusercontent.com/InitialDet/AutoHook/main/AutoHook/images/icon.png",
-    "Punchline": "Makes fishing less (or more) boring",
+    "Punchline": "낚시를 덜 (또는 더) 지루하게 만들어줍니다.",
     "Changelog": "Click the new Changelog button to see whats new",
     "DownloadLinkInstall": "https://github.com/KR-Plugins/AutoHook/releases/download/2.5.0.0/AutoHook.zip",
     "DownloadLinkUpdate": "https://github.com/KR-Plugins/AutoHook/releases/download/2.5.0.0/AutoHook.zip"
