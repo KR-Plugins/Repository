@@ -251,5 +251,23 @@
     "DownloadLinkInstall": "https://github.com/KR-Plugins/Astro/releases/download/1.0.0.2/Astro.zip",
     "DownloadLinkUpdate": "https://github.com/KR-Plugins/Astro/releases/download/1.0.0.2/Astro.zip",
     "DownloadLinkTesting": "https://github.com/KR-Plugins/Astro/releases/download/1.0.0.2/Astro.zip"
+  },
+  {
+    "Author": "кайт машина (Puni.sh)",
+    "Name": "Avarice",
+    "InternalName": "Avarice",
+    "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+    "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/PunishXIV/Avarice",
+    "DalamudApiLevel": 8,
+    "IconUrl": "https://love.puni.sh/resources/avarice.png",
+    "Tags": [
+      "combat"
+    ],
+    "Changelog": "- DRG: option to disable drawing anticipated positional if user is under the effects of Right Eye",
+    "AssemblyVersion": "2.0.3.6",
+    "DownloadLinkInstall": "https://github.com/KR-Plugins/Avarice/releases/download/2.0.3.6/Avarice.zip",
+    "DownloadLinkUpdate": "https://github.com/KR-Plugins/Avarice/releases/download/2.0.3.6/Avarice.zip"
   }
 ]
